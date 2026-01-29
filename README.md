@@ -59,24 +59,25 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/thelogeshwer/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
   <a href="https://www.instagram.com/thelogeshwer/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
-  <a href="https://twitter.com/thelogeshwer">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+  <a href="https://x.com/thelogeshwer">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
   </a>
-  <a href="https://www.youtube.com/thelogeshwer">
-    <img src="https://skillicons.dev/icons?i=youtube" />
+  <a href="https://www.youtube.com/@thelogeshwer">
+    <img src="https://skillicons.dev/icons?i=youtube&theme=dark" />
   </a>
   <a href="https://leetcode.com/thelogeshwer/">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" />
   </a>
   <a href="https://codeforces.com/profile/thelogeshwer">
-    <img src="https://skillicons.dev/icons?i=codeforces" />
+    <img src="https://skillicons.dev/icons?i=codeforces&theme=dark" />
   </a>
 </p>
+
 
 ---
 
