@@ -47,10 +47,11 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thelogeshwer&theme=github_dark" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thelogeshwer&theme=github_dark" />
+<a href="https://github.com/thelogeshwer">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thelogeshwer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thelogeshwer&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
 ---
 
 
