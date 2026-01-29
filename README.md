@@ -57,15 +57,27 @@
 
 
 ## 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/thelogeshwer/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://www.instagram.com/thelogeshwer/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+<a href="https://twitter.com/thelogeshwer" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+<a href="https://www.youtube.com/@thelogeshwer" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="https://leetcode.com/thelogeshwer/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+<a href="https://codeforces.com/profile/thelogeshwer" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/>
+</a>
+
 
 ---
 
-⭐ *"Strong fundamentals build strong systems."*
+⭐ *"If you want to crack the system, first understand the system."*
