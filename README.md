@@ -13,54 +13,45 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,cpp,mysql,mongodb,git,linux" />
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+
+----
+## Frameworks, Platforms and Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+
+---
+## Databases
+![H2](https://img.shields.io/badge/H2%20Database-1E90FF?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+##☁️ DevOps & CI/CD Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab)
 
 ---
 
-## 📌 Backend Projects
-
-### 🔹 JWT Authentication & CRUD API (Spring Boot)
-- Designed RESTful APIs using **Spring Boot**
-- Implemented **JWT-based authentication**
-- Password encryption using **BCrypt**
-- CRUD operations with **MySQL**
-- Layered architecture (Controller → Service → Repository)
-
-### 🔹 REST API Practice Projects
-- Request validation & global exception handling
-- Pagination & sorting
-- DTO pattern for clean API responses
-
----
-
-## 🧠 Data Structures & Algorithms
-- Solving problems using **Java (primary)** and **C++**
-- Strong understanding of:
-  - Arrays, Strings, Linked Lists
-  - Stacks, Queues
-  - Trees, Binary Search Trees
-  - Recursion & Backtracking
-  - Sorting & Searching
-- Focus on **time & space complexity**
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" height="160"/>
+<a href="https://github.com/thelogeshwer">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thelogeshwer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thelogeshwer&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 <p align="left">
