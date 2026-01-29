@@ -52,30 +52,31 @@
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thelogeshwer&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 ---
 
 
 ## 🌐 Connect with Me
-<a href="https://www.linkedin.com/in/thelogeshwer/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://www.instagram.com/thelogeshwer/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-<a href="https://twitter.com/thelogeshwer" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-<a href="https://www.youtube.com/@thelogeshwer" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
-
-<a href="https://leetcode.com/thelogeshwer/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-<a href="https://codeforces.com/profile/thelogeshwer" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/>
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/thelogeshwer/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/thelogeshwer/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://twitter.com/thelogeshwer">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.youtube.com/thelogeshwer">
+    <img src="https://skillicons.dev/icons?i=youtube" />
+  </a>
+  <a href="https://leetcode.com/thelogeshwer/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
+  <a href="https://codeforces.com/profile/thelogeshwer">
+    <img src="https://skillicons.dev/icons?i=codeforces" />
+  </a>
+</p>
 
 ---
 
