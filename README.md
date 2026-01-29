@@ -48,8 +48,8 @@
 ## 📈 GitHub Stats
 <p align="center">
 <a href="https://github.com/thelogeshwer">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thelogeshwer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thelogeshwer&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thelogeshwer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelogeshwer&layout=compact&theme=algolia&langs_count=6" />
 </a>
 </p>
 
