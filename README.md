@@ -21,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 
 ----
-## Frameworks, Platforms and Libraries
+## 🧩 Frameworks, Platforms and Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
@@ -30,13 +30,13 @@
 
 
 ---
-## Databases
+## 🗄️ Databases
 ![H2](https://img.shields.io/badge/H2%20Database-1E90FF?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
 ---
-##☁️ DevOps & CI/CD Tools
+## ☁️ DevOps & CI/CD Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
