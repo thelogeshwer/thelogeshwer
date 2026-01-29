@@ -59,24 +59,25 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/thelogeshwer/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
   <a href="https://www.instagram.com/thelogeshwer/">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45"/>
   </a>
   <a href="https://x.com/thelogeshwer">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45"/>
   </a>
   <a href="https://www.youtube.com/@thelogeshwer">
-    <img src="https://skillicons.dev/icons?i=youtube&theme=dark" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="45"/>
   </a>
   <a href="https://leetcode.com/thelogeshwer/">
-    <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
   </a>
   <a href="https://codeforces.com/profile/thelogeshwer">
-    <img src="https://skillicons.dev/icons?i=codeforces&theme=dark" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="45"/>
   </a>
 </p>
+
 
 
 
