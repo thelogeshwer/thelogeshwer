@@ -57,7 +57,7 @@
 
 
 ## 🌐 Connect with Me
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/thelogeshwer/" style="text-decoration:none; margin-right:10px;">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
