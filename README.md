@@ -58,16 +58,16 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/thelogeshwer/">
+  <a href="https://www.linkedin.com/in/thelogeshwer/" style="margin-right:12px;">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/thelogeshwer">
+  <a href="https://x.com/thelogeshwer" style="margin-right:12px;">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/thelogeshwer/">
+  <a href="https://www.instagram.com/thelogeshwer/" style="margin-right:12px;">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:logeshwer2002@gmail.com">
+  <a href="mailto:logeshwer2002@gmail.com" style="margin-right:12px;">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
