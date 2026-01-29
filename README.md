@@ -67,16 +67,8 @@
   <a href="https://www.instagram.com/thelogeshwer/">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:logeshwer2002@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/thelogeshwer?tab=repositories">
-    <img src="https://img.shields.io/badge/CHECK%20OUT%20MY%20REPOS-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
