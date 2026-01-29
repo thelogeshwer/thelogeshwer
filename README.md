@@ -48,8 +48,8 @@
 ## 📈 GitHub Stats
 <p align="center">
 <a href="https://github.com/thelogeshwer">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thelogeshwer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thelogeshwer&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thelogeshwer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thelogeshwer&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -59,24 +59,25 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/thelogeshwer/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+    <img src="https://simpleicons.org/icons/linkedin.svg" width="32" />
   </a>
   <a href="https://www.instagram.com/thelogeshwer/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45"/>
+    <img src="https://simpleicons.org/icons/instagram.svg" width="32" />
   </a>
   <a href="https://x.com/thelogeshwer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45"/>
+    <img src="https://simpleicons.org/icons/twitter.svg" width="32" />
   </a>
   <a href="https://www.youtube.com/@thelogeshwer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="45"/>
+    <img src="https://simpleicons.org/icons/youtube.svg" width="32" />
   </a>
   <a href="https://leetcode.com/thelogeshwer/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
+    <img src="https://simpleicons.org/icons/leetcode.svg" width="32" />
   </a>
   <a href="https://codeforces.com/profile/thelogeshwer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="45"/>
+    <img src="https://simpleicons.org/icons/codeforces.svg" width="32" />
   </a>
 </p>
+
 
 
 
